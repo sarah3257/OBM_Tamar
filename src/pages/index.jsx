@@ -1,14 +1,14 @@
 import Layout from "./Layout.jsx";
 
-import Home from "./Home";
+import Home from "./Home.jsx";
 
-import About from "./About";
+import About from "./About.jsx";
 
-import Services from "./Services";
+import Services from "./Services.jsx";
 
-import Testimonials from "./Testimonials";
+import Testimonials from "./Testimonials.jsx";
 
-import Contact from "./Contact";
+import Contact from "./Contact.jsx";
 
 import { BrowserRouter as Router, Route, Routes, useLocation } from 'react-router-dom';
 
